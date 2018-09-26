@@ -4,11 +4,11 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title>Hank Quinlan's Blog</title>
+	<title>Evan Espina's Blog</title>
 	<link href="http://evane5213.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://evane5213.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://hankquinlan.github.io/blog</id>
+	<id>http://evane5213.github.io/blog</id>
 	<author>
 		<name>Evan Espina</name>
 		<email>evane5213@afsenyc.org</email>
