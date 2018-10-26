@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Evan Espina's sixth Weekly Reflection"
+date: 2018-10-26
+---
+
+This 1/3 of the semester so far was a grwat learning experience. This 1/3 of the semester we involoved math with code to create complex coding projects and that this knowledge will help us later in the year. We Used expressions from math like 5*(2 + 8) and converted it to make defintions/ racket programming. Expressions are the base to any coding porject using racket becuase the concept of expressions relates to racket equations. All of this required logical reasoning and figuring out how everything connected/fitting the peices together. This is the main ideas we foucused on this 1/3 of the semester. The things we learned this week were defining functions, using definitions to define characters in our game, and making connections with mathimatical equations with racket equations. On Monday we learned how to define functions and at first I was not able to figure out how to define the function, actually I was not able to play the function because at the time I did not know you have to type in the defined name into the interactions area, after some guidence from our teacher I was able to figure it out. On Tuesday, we learned how to define much more complex functions and now started our game using defintions to define each function. On Friday, we reflected on how math and code combine by translating math expressions into circles of evaluation, then to racket expression. This is what I did and what we learned during class this week and the 1/3 of the semester.
