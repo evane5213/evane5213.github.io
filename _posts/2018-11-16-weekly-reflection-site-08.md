@@ -8,4 +8,5 @@ This week we learned more about functions/fast functions. On Tuesday, we separat
 
 ```;gt : number-> Image```
 
-. We continued expanding our knowledge on functions. We made fuinction defenitions using different place holders for different parts of a function.This is what I learned this week.
+The function gt takes in a number to make a image showing what we did on Tuesday
+We continued expanding our knowledge on functions. We made fuinction defenitions using different place holders for different parts of a function.This is what I learned this week.
