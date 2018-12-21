@@ -63,22 +63,22 @@ This code is all the definitions I used to make my flag and how these peices tog
 
 
 (define flag (put-image goldstar 120 210
-                        (put-image bluecircle 80 210
-                                   (put-image goldcircle 60 210
-                                              (put-image longwhite 360 10
-                                                         (put-image longred 360 (* 1.5 stripe-height)
-                                                                    (put-image longwhite 360 50
-                                                                               (put-image longred 360 70
-                                                                                          (put-image longwhite 360 90
-                                                                                                     (put-image longred 360 110
-                                                                                                                (put-image shortwhite 360 130
-                                                                                                                           (put-image shortred 360 150
-                                                                                                                                      (put-image shortwhite 360 170
-                                                                                                                                                 (put-image shortred 360 190
- (put-image shortwhite 360 210
-            (put-image shortred 360 230
-                       (put-image shortwhite 360 250 
-                                  (put-image shortred 360 270 base))))))))))))))))))
+             (put-image bluecircle 80 210
+             (put-image goldcircle 60 210
+             (put-image longwhite 360 10
+             (put-image longred 360 (* 1.5 stripe-height)
+             (put-image longwhite 360 50
+             (put-image longred 360 70
+             (put-image longwhite 360 90
+             (put-image longred 360 110
+             (put-image shortwhite 360 130
+             (put-image shortred 360 150
+             (put-image shortwhite 360 170
+             (put-image shortred 360 190
+             (put-image shortwhite 360 210
+             (put-image shortred 360 230
+             (put-image shortwhite 360 250 
+             (put-image shortred 360 270 base))))))))))))))))))
 
 
 
