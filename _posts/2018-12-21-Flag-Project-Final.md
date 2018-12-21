@@ -47,7 +47,8 @@ This code is all the definitions I used to make my flag and how these peices tog
 
 ## Program code
 
-```(define width 500)
+```
+(define width 500)
 (define height 280)
 (define stripe-height (/ height 14))
 
@@ -85,5 +86,6 @@ This code is all the definitions I used to make my flag and how these peices tog
 (define outline (rectangle width height "outline" "black"))
 
 (overlay outline flag)
+
 ```
 Had to make the put images in one line becuase when spread out, the code goes off the page.
