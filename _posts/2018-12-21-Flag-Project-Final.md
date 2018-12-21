@@ -4,18 +4,14 @@ title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
 
-## Flag of _insert your country_ by _insert your name_
+## Flag of Malaysia
 
 ## Describe your program
 
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
-
-<!--- Delete this comment and add your writing -->
+<!--- I designed this flag for Malaysia
+I expect either a 3 or a 4 because I tried using variables and scaling and making the flag as close as possible to the real flag. -->
 
 ## Current output
-
--   Insert an image that your program currently produces. _then delete this instruction_
 
 * * *
 ![Flag](/images/final-flag.png)
