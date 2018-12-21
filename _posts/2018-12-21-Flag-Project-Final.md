@@ -14,7 +14,7 @@ I expect either a 3 or a 4 because I tried using variables and scaling and makin
 ## Current output
 
 * * *
-![download](/images/FlagV2.png)
+![download](/images/malaysianflag.png)
 * * *
 
 ## Describe your process.
