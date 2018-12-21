@@ -8,8 +8,8 @@ date: 2018-12-21
 
 ## Describe your program
 
-<!--- I designed this flag for Malaysia
-I expect either a 3 or a 4 because I tried using variables and scaling and making the flag as close as possible to the real flag. -->
+I designed this flag for Malaysia
+I expect either a 3 or a 4 because I tried using variables and scaling and making the flag as close as possible to the real flag.
 
 ## Current output
 
