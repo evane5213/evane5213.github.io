@@ -24,3 +24,8 @@ First is the contract which is a brief explination of what the code does. Next i
 FUNCTION OF CODE IN GAME: 
 It keeps the chaaracters in the game inside the viewable area of the screen so that the character can't go passes a certain area so that it stays on the screen.
 
+SCREENSHOT OF GAME:
+
+* * *
+![download](/images/WeScheme Image (1).png)
+* * *
